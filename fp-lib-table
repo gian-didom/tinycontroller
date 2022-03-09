@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "MotorBracket")(type "KiCad")(uri "${KIPRJMOD}/MotorBracket.pretty")(options "")(descr ""))
+)
