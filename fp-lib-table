@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name "MotorBracket")(type "KiCad")(uri "${KIPRJMOD}/MotorBracket.pretty")(options "")(descr ""))
+  (lib (name "CompactMotor")(type "KiCad")(uri "C:/Users/Di Domenico/Documents/CompactMotor/CompactMotor.pretty")(options "")(descr ""))
 )

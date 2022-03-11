@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 4.3,
-          "height": 6.0,
-          "width": 6.0
+          "drill": 1.152,
+          "height": 1.65,
+          "width": 1.65
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -379,10 +379,7 @@
         "microvia_drill": 0.1,
         "name": "Power",
         "nets": [
-          "Net-(J1-Pad1)",
           "Net-(J1-Pad2)",
-          "Net-(J1-Pad3)",
-          "Net-(J1-Pad4)",
           "VM"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
@@ -404,7 +401,7 @@
       "idf": "",
       "netlist": "../../../../Volumes/Transcend/Applicazioni/KiCad/KiCad.app/Contents/Applications/",
       "specctra_dsn": "",
-      "step": "",
+      "step": "CompactMotor.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
